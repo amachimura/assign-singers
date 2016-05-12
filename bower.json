@@ -1,0 +1,23 @@
+{
+  "name": "assign-singers",
+  "description": "",
+  "main": "",
+  "authors": [
+    "machworks"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.4.0",
+    "dialog-polyfill": "^0.4.3"
+  }
+}
